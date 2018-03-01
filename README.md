@@ -2,6 +2,7 @@
 
 ## Spring Session Examples
 
-### Relevant Articles: 
-- [Introduction to Spring Session](http://www.baeldung.com/spring-session)
+### chamada curl: 
+curl -v -uadmin:password http://localhost:8080/
 # spring-boot-session-redis
+
